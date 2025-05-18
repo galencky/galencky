@@ -1,0 +1,19 @@
+👋 Hi, I’m @galencky
+
+👀 I’m interested in medicine, particularly radiation oncology and medical informatics, photography and videography, Python programming, AI applications in healthcare, and automation for improving medical workflows.
+
+🌱 I’m currently learning advanced Python, FastAPI, LINE chatbot development integrated with Google Gemini API, medical data parsing, financial investment strategies, and advanced photographic techniques.
+
+💞️ I’m looking to collaborate on healthcare-related AI projects, medical informatics, and chatbot development for multilingual patient education. I'm also interested in collaborative photography and videography projects.
+
+📫 How to reach me: [galen147258369@gmail.com](mailto:galen147258369@gmail.com)
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I love pixel-peeping and analyzing lens sharpness in photography almost as much as debugging complex Python scripts.
+
+
+<!---
+galencky/galencky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
