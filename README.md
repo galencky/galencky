@@ -1,12 +1,14 @@
 👋 Hi, I’m @galencky
 
+✨ I'm a vibecoder, blending creativity with coding to build intuitive and impactful solutions.
+
 👀 I’m interested in medicine, particularly radiation oncology and medical informatics, photography and videography, Python programming, AI applications in healthcare, IoT projects, and automation for improving medical workflows.
 
 🌱 I’m currently learning advanced Python, FastAPI, LINE chatbot development integrated with Google Gemini API, medical data parsing, Arduino-based IoT solutions, financial investment strategies, and advanced photographic techniques.
 
 💞️ I’m looking to collaborate on healthcare-related AI projects, medical informatics, chatbot development for multilingual patient education, IoT applications in healthcare, and collaborative photography and videography projects.
 
-📫 How to reach me: galen147258369@gmail.com
+📫 How to reach me: [galen147258369@gmail.com](mailto:galen147258369@gmail.com)
 
 😄 Pronouns: he/him
 
